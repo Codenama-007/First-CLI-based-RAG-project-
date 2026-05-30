@@ -1,0 +1,12 @@
+huggingface-hub
+transformers
+tensorflow
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+requests 
+python-dotenv
+langchain 
+langchain-ollama

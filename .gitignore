@@ -1,0 +1,21 @@
+# python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Generated Data
+audios/
+transcriptions/
+unused_stuff/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

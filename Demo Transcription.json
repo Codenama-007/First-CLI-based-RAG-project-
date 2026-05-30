@@ -1,0 +1,572 @@
+[
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_001",
+        "start": 0.0,
+        "end": 4.7,
+        "text": "Guys in today's video, I will give you guys an exercise and Jojo will solve this exercise"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_002",
+        "start": 4.7,
+        "end": 6.5,
+        "text": "I will also give a shout out to all of you"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_003",
+        "start": 6.5,
+        "end": 8.700000000000001,
+        "text": "So write in the comment section"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_004",
+        "start": 8.700000000000001,
+        "end": 12.200000000000001,
+        "text": "If you guys accept my challenge"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_005",
+        "start": 12.200000000000001,
+        "end": 15.3,
+        "text": "I will give you guys a question and you guys will have to solve it"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_006",
+        "start": 15.3,
+        "end": 21.0,
+        "text": "And it will be based on all the concepts that we have studied in Sigma web development course"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_007",
+        "start": 21.0,
+        "end": 24.0,
+        "text": "So I am very excited to give you guys a question"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_008",
+        "start": 24.0,
+        "end": 26.0,
+        "text": "I hope you guys are equally excited"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_009",
+        "start": 26.0,
+        "end": 27.5,
+        "text": "Let's roll the intro"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_010",
+        "start": 30.0,
+        "end": 36.0,
+        "text": "Music"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_011",
+        "start": 36.0,
+        "end": 39.0,
+        "text": "So guys as you can see in your computer screen"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_012",
+        "start": 39.0,
+        "end": 41.0,
+        "text": "If you haven't accessed all the playlists yet"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_013",
+        "start": 41.0,
+        "end": 43.0,
+        "text": "Then click here to bookmark this playlist"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_014",
+        "start": 43.0,
+        "end": 45.0,
+        "text": "Click here to save it"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_015",
+        "start": 45.0,
+        "end": 47.0,
+        "text": "And also if you haven't accessed the code"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_016",
+        "start": 47.0,
+        "end": 50.0,
+        "text": "Then all of the github is updated to video 11"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_017",
+        "start": 50.0,
+        "end": 52.0,
+        "text": "And I will keep updating as the videos continue"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_018",
+        "start": 52.0,
+        "end": 56.0,
+        "text": "Now I will make a folder for the question that I want to give you"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_019",
+        "start": 56.0,
+        "end": 58.0,
+        "text": "I will definitely name the folder"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_020",
+        "start": 58.0,
+        "end": 59.0,
+        "text": "12"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_021",
+        "start": 59.0,
+        "end": 61.0,
+        "text": "I will shift right click and open with code"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_022",
+        "start": 61.0,
+        "end": 63.0,
+        "text": "And all of you guys will accept this challenge"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_023",
+        "start": 63.0,
+        "end": 65.0,
+        "text": "If you guys accept it, I will like it"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_024",
+        "start": 65.0,
+        "end": 67.0,
+        "text": "What you guys do here is"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_025",
+        "start": 67.0,
+        "end": 70.0,
+        "text": "I will make an index.html here"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_026",
+        "start": 70.0,
+        "end": 72.0,
+        "text": "And I will give you a question"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_027",
+        "start": 72.0,
+        "end": 73.0,
+        "text": "So the question is"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_028",
+        "start": 73.0,
+        "end": 75.0,
+        "text": "You are given"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_029",
+        "start": 75.0,
+        "end": 79.0,
+        "text": "You are given 12 video files"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_030",
+        "start": 79.0,
+        "end": 80.0,
+        "text": "Okay"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_031",
+        "start": 80.0,
+        "end": 81.0,
+        "text": "12 files"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_032",
+        "start": 81.0,
+        "end": 83.0,
+        "text": "6 audio and 6 video"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_033",
+        "start": 84.0,
+        "end": 86.0,
+        "text": "And 6 video"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_034",
+        "start": 86.0,
+        "end": 91.0,
+        "text": "Design a website using HTML only"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_035",
+        "start": 91.0,
+        "end": 96.0,
+        "text": "And which shows these 12 files"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_036",
+        "start": 96.0,
+        "end": 97.0,
+        "text": "Okay"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_037",
+        "start": 97.0,
+        "end": 99.0,
+        "text": "I will do a toggle word wrap here"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_038",
+        "start": 99.0,
+        "end": 102.0,
+        "text": "So that you guys can see the word wrap"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_039",
+        "start": 102.0,
+        "end": 103.0,
+        "text": "So what you have to do is"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_040",
+        "start": 103.0,
+        "end": 104.0,
+        "text": "You are given 12 files"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_041",
+        "start": 104.0,
+        "end": 106.0,
+        "text": "And what is the name of those files"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_042",
+        "start": 106.0,
+        "end": 108.0,
+        "text": "1.mp3, 2.mp3"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_043",
+        "start": 108.0,
+        "end": 111.0,
+        "text": "So I will tell you the name of those files"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_044",
+        "start": 111.0,
+        "end": 114.0,
+        "text": "1.mp3, 2.mp3"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_045",
+        "start": 114.0,
+        "end": 116.0,
+        "text": "All the way till 6.mp3"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_046",
+        "start": 116.0,
+        "end": 117.0,
+        "text": "These are your MP3 files"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_047",
+        "start": 117.0,
+        "end": 121.0,
+        "text": "Then you have 1.mp4, 2.mp4"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_048",
+        "start": 121.0,
+        "end": 124.0,
+        "text": "All the way till 6.mp4"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_049",
+        "start": 124.0,
+        "end": 125.0,
+        "text": "Okay"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_050",
+        "start": 125.0,
+        "end": 126.0,
+        "text": "These are your files"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_051",
+        "start": 126.0,
+        "end": 127.0,
+        "text": "So all these files"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_052",
+        "start": 127.0,
+        "end": 129.0,
+        "text": "The 12 files that you have to show"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_053",
+        "start": 129.0,
+        "end": 130.0,
+        "text": "By preview"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_054",
+        "start": 130.0,
+        "end": 132.0,
+        "text": "So I hope this will be done"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_055",
+        "start": 132.0,
+        "end": 133.0,
+        "text": "It is a very simple question"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_056",
+        "start": 133.0,
+        "end": 135.0,
+        "text": "And you guys please comment"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_057",
+        "start": 135.0,
+        "end": 137.0,
+        "text": "And definitely write the challenge accepted"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_058",
+        "start": 137.0,
+        "end": 139.0,
+        "text": "Because if you accept this challenge"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_059",
+        "start": 139.0,
+        "end": 141.0,
+        "text": "Then you can write the challenge accepted in the first instance"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_060",
+        "start": 141.0,
+        "end": 144.0,
+        "text": "And whoever will give me the code"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_061",
+        "start": 144.0,
+        "end": 145.0,
+        "text": "I will give a shout out"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_062",
+        "start": 145.0,
+        "end": 147.0,
+        "text": "If you are going to write the challenge accepted"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_063",
+        "start": 147.0,
+        "end": 148.0,
+        "text": "You will get a shout out for sure"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_064",
+        "start": 148.0,
+        "end": 150.0,
+        "text": "And please tell me in the comment section"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_065",
+        "start": 150.0,
+        "end": 151.0,
+        "text": "Okay"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_066",
+        "start": 151.0,
+        "end": 153.0,
+        "text": "So I hope you will complete this"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_067",
+        "start": 153.0,
+        "end": 155.0,
+        "text": "And this is a very simple question"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_068",
+        "start": 155.0,
+        "end": 157.0,
+        "text": "I know a lot of people will say"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_069",
+        "start": 157.0,
+        "end": 158.0,
+        "text": "This is very simple"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_070",
+        "start": 158.0,
+        "end": 159.0,
+        "text": "One more thing"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_071",
+        "start": 159.0,
+        "end": 160.0,
+        "text": "What I will expect from you guys"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_072",
+        "start": 160.0,
+        "end": 162.0,
+        "text": "Is that you try"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_073",
+        "start": 162.0,
+        "end": 164.0,
+        "text": "All the concepts that I have told"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_074",
+        "start": 164.0,
+        "end": 166.0,
+        "text": "Try to use them more"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_075",
+        "start": 166.0,
+        "end": 167.0,
+        "text": "To solve this question"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_076",
+        "start": 167.0,
+        "end": 168.0,
+        "text": "Okay"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_077",
+        "start": 168.0,
+        "end": 170.0,
+        "text": "So this was our question for today"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_078",
+        "start": 170.0,
+        "end": 171.0,
+        "text": "I hope you have enjoyed it"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_079",
+        "start": 171.0,
+        "end": 172.0,
+        "text": "I will select it and"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_080",
+        "start": 172.0,
+        "end": 174.0,
+        "text": "I will do a control forward slash"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_081",
+        "start": 174.0,
+        "end": 176.0,
+        "text": "And what happens if you do a control forward slash"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_082",
+        "start": 176.0,
+        "end": 178.0,
+        "text": "That you can comment or uncomment"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_083",
+        "start": 178.0,
+        "end": 180.0,
+        "text": "So if you do a control forward slash"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_084",
+        "start": 180.0,
+        "end": 181.0,
+        "text": "Then it will be uncommented"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_085",
+        "start": 181.0,
+        "end": 183.0,
+        "text": "And if you do a control forward slash"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_086",
+        "start": 183.0,
+        "end": 184.0,
+        "text": "Then it will be commented"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_087",
+        "start": 184.0,
+        "end": 186.0,
+        "text": "So you have to complete this website"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_088",
+        "start": 186.0,
+        "end": 188.0,
+        "text": "It is a very simple problem"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_089",
+        "start": 188.0,
+        "end": 190.0,
+        "text": "It is a straight forward problem"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_090",
+        "start": 190.0,
+        "end": 192.0,
+        "text": "Everyone has to solve it"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_091",
+        "start": 192.0,
+        "end": 194.0,
+        "text": "So that's all for this video guys"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_092",
+        "start": 194.0,
+        "end": 195.0,
+        "text": "Thank you so much guys"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_093",
+        "start": 195.0,
+        "end": 196.0,
+        "text": "For watching this video"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_094",
+        "start": 196.0,
+        "end": 198.0,
+        "text": "And I will see you next time"
+    },
+    {
+        "chunk_id": "Exercise 1 - Pure HTML Media Player \uff5c Sigma Web Development Course - Tutorial #12 [5xFRg_TzlAg].mp3_095",
+        "start": 200.0,
+        "end": 201.0,
+        "text": "Bye"
+    }
+]
